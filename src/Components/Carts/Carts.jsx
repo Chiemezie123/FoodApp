@@ -1,4 +1,4 @@
-import React, { useContext, useEffect, useReducer } from 'react';
+import React, { useContext } from 'react';
 import carts from "./carts.module.css";
 import Modal  from '../UI/Modal';
 import CartContext from '../../Store/CartContext';
@@ -7,7 +7,7 @@ import CartItems from './CartItems';
 function Carts(props) {
     const CartCtx = useContext(CartContext);
 
-    const GetStorage = JSON.parse(localStorage.getItem('CartStorage'));
+    // const GetStorage = JSON.parse(localStorage.getItem('CartStorage'));
    
     // const CartItems = (
     //     <ul>

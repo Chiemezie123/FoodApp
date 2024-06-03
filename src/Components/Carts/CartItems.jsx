@@ -13,9 +13,9 @@ const CartItems = ({Cartprops}) => {
         console.log("working right",id)
     }
 
-    const AddingCartFunc =(item)=>{
-        CartCtx.addItem({...item, amount : 1});
-    }
+    // const AddingCartFunc =(item)=>{
+    //     CartCtx.addItem({...item, amount : 1});
+    // }
     const newAddingItem =(id)=>{
         CartCtx.addingItem(id)
     }

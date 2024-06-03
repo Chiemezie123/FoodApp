@@ -2,7 +2,7 @@ import React from 'react';
 import availableMeals from "./AvailableMeals.module.css";
 import MealItems from './MealItems/MealItems';
 import Cards from '../UI/Cards';
-import { nanoid } from 'nanoid'
+// import { nanoid } from 'nanoid'
 
 const DUMMY_MEALS = [
     {

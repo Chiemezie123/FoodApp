@@ -23,7 +23,7 @@ useEffect(()=>{
       setButtonIsHighLighted(false);
     }, 300)
   };
-},[item]);
+},[item, CartCtx.item.length]);
 
 
 

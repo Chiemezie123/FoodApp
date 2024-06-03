@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ccf2d12a.css",
+    "main.js": "/static/js/main.228f5a3d.js",
+    "static/media/rumman2.jpg": "/static/media/rumman2.93eea0d9634ddd2117a1.jpg",
+    "index.html": "/index.html",
+    "main.ccf2d12a.css.map": "/static/css/main.ccf2d12a.css.map",
+    "main.228f5a3d.js.map": "/static/js/main.228f5a3d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccf2d12a.css",
+    "static/js/main.228f5a3d.js"
+  ]
+}

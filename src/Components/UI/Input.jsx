@@ -1,4 +1,4 @@
-import React,{forwardRef} from 'react';
+import React from 'react';
 import inputForm from "./Input.module.css"
 
 const Input = React.forwardRef((props, ref)=> {
